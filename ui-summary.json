@@ -1,0 +1,11 @@
+{
+  "title": "引き継ぎ抜け見張り",
+  "archetype": "filter_toggle",
+  "interaction_model": "toggle_filter_pills",
+  "primary_layout": "filter_bar_with_survivor_wall",
+  "result_presentation_style": "alive_dead_listing_cards",
+  "palette_motif": "物件ブルー",
+  "main_cta": "部屋探しの条件で試す",
+  "intro_variant": "filter_strip",
+  "ui_variant": "filter"
+}
